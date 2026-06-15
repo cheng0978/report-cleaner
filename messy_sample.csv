@@ -1,0 +1,11 @@
+Region ,Product,Revenue
+  North, Widget,"1,200"
+South,Gadget,800
+North ,Widget,"1,200"
+East,Widget ,"3,000"
+South,Gadget,950
+North,Widget,"1,200"
+East,Gadget,"2,100"
+,,
+,,
+  North, Widget,"1,200"
